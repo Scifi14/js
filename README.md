@@ -353,3 +353,5 @@ userT.email="hits"
 
 all primitive values go in stack and in stack we get copy 
 all non primitive values go in heap and in heap we get reference(means whatever change is done in original value)
+
+
